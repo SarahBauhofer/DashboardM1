@@ -103,7 +103,7 @@ ChatGPT 3.5 can be a useful aid for idea and code generation. However, you will 
 # Code Structure
 The code is structured like regular ShinyApp code and includes installing all necessary libraries, installing the dataset and making changes to the dataset. This is followed by a fluid page that defines all layouts and the size of the components in the UserInterface (UI) and in the Dashboard Body. The server logic performs all functions for the calculations and interactions.
 
-# All These lead to the final Code: 
+# All This lead to the final Code: 
 
 ```
 # Install and load necessary libraries
