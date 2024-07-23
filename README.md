@@ -2,7 +2,7 @@
 The task here was to let ChatGPT 3.5 create a Dashboard and document the process with opportunities and obstacles of the work with ChatGPT 3.5. For this purpose, a data set was used that was to be visualized on a dashboard. The challenge was to find out if and how ChatGPT could work with visualizations. 
 
 # Requirements
-- R-Studio
+- RStudio
 - ChatGPT 3.5
 - Dataset [(StudentsPerformance-3.csv)](https://github.com/SarahBauhofer/Dashboard/blob/78aa55dc48a6bdb0b06922171257ba7195693ca9/StudentsPerformance-3.csv)
 - Shiny
